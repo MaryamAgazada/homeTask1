@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+      height: 100vh;
+}
+hr{
+    width: 970px;
+    border: 1px solid black;
+   
+}
+.adress{
+    text-align: center;
+}
+.adress ul{
+    text-align: center;
+}
+.adress hr{
+    margin: 0 auto;
+}
+section{
+    padding-left: 80px;
+    line-height: 2.5;
+}
+.text-top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.text-top li {
+    margin-right: 15px;
+}
+.text-bottom li{
+    margin-right: 15px;
+}
+.text-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
